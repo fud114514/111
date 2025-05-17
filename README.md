@@ -1,5 +1,5 @@
-# 免费试用公共 API
-Public APIs 代码仓库由像您一样的社区成员以及在 [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) 工作的伙伴们手动整理。它包含了来自许多领域的大量公共 API，您可以将它们用于自己的产品。多年来，它被社区精心管理，可以认为是一个 API 的宝库。
+# public-apis的中文翻译
+Public APIs 代码仓库由像您一样的社区成员以及在工作的伙伴们手动整理。它包含了来自许多领域的大量公共 API，您可以将它们用于自己的产品。多年来，它被社区精心管理，可以认为是一个 API 的宝库。
 
 <br >
 
