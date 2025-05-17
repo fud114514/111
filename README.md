@@ -1,8 +1,3 @@
-好的，这是 `README.md` 文件的中文翻译，并用 Markdown 代码块包裹：
-
-```markdown
---- START OF FILE README.md ---
-
 # 免费试用公共 API
 Public APIs 代码仓库由像您一样的社区成员以及在 [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) 工作的伙伴们手动整理。它包含了来自许多领域的大量公共 API，您可以将它们用于自己的产品。多年来，它被社区精心管理，可以认为是一个 API 的宝库。
 
@@ -1890,4 +1885,3 @@ API | 描述 | 授权 | HTTPS | CORS |
 
 ## 许可证
 [MIT](LICENSE) (c) 2022 public-apis
-```
