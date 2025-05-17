@@ -3,14 +3,6 @@ Public APIs 代码仓库由像您一样的社区成员以及在工作的伙伴�
 
 <br >
 
-<p>
-    <a href="https://apilayer.com">
-        <div>
-            <img src=".github/cs1586-APILayerLogoUpdate2022-LJ_v2-HighRes.png" width="100%" alt="APILayer Logo" />
-        </div>
-    </a>
-  </p>
-
 [APILayer](https://apilayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) 是将 API 集成到任何产品中的最快方式。在 [APILayer Marketplace](https://apilayer.com/#bestSellers&utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo) 上有许多可用的 API。
 
 <br >
